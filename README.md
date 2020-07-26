@@ -27,22 +27,23 @@ markdown
 * Networking for Web Developers
 
 ##### Backend
-* Backend for Java Developers
-* Backend for Python Developers
+* Backend for Java Developers (به زودی اینجا لینک میذاریم)
+* Backend for Python Developers (به زودی اینجا لینک میذاریم)
 
 
 ##### Frontend
-* Introduction to HTML, CSS
-* Introduction to javascript
-* Introduction to React
+* Introduction to HTML, CSS (به زودی اینجا لینک میذاریم)
+* Introduction to javascript (به زودی اینجا لینک میذاریم)
+* Introduction to React (به زودی اینجا لینک میذاریم)
 
 ### زبان های برنامه نویسی
-* Learn Java
-* Learn Python
+* Learn Java (به زودی اینجا لینک میذاریم)
+* Learn Python (به زودی اینجا لینک میذاریم)
 
 ### پایگاه داده و بیگ دیتا
 * Learn Sqlite
 * Learn PostgreSQL
+* Learn MySQL (به زودی اینجا لینک میذاریم)
 
 ### شبکه و امنیت شبکه
 * به زودی
